@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656639389441" clover="3.2.0">
+  <project timestamp="1656639389441" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4" elements="17" coveredelements="17" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="ArrayService.ts" path="C:\Curso Full Stack Vem ser Tech\modulo8_Testes\aula2\exercicio\helper-api\src\services\ArrayService.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="6" count="10" type="stmt"/>
+      <line num="9" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="13" count="17" type="cond" truecount="2" falsecount="0"/>
+    </file>
+  </project>
+</coverage>
