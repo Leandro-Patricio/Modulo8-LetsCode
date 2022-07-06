@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656891116571" clover="3.2.0">
+  <project timestamp="1656891116571" name="All files">
+    <metrics statements="48" coveredstatements="48" conditionals="21" coveredconditionals="21" methods="6" coveredmethods="6" elements="75" coveredelements="75" complexity="0" loc="48" ncloc="48" packages="1" files="3" classes="3"/>
+    <file name="ArrayService.ts" path="C:\Curso Full Stack Vem ser Tech\modulo8_Testes\aula3\exercicio\helper-api\src\services\ArrayService.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="6" count="10" type="stmt"/>
+      <line num="9" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="13" count="17" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="LoremIpsumService.ts" path="C:\Curso Full Stack Vem ser Tech\modulo8_Testes\aula3\exercicio\helper-api\src\services\LoremIpsumService.ts">
+      <metrics statements="39" coveredstatements="39" conditionals="16" coveredconditionals="16" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="104" type="stmt"/>
+      <line num="20" count="104" type="stmt"/>
+      <line num="21" count="104" type="stmt"/>
+      <line num="24" count="104" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="29" type="stmt"/>
+      <line num="26" count="29" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="18" type="stmt"/>
+      <line num="28" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="12" type="stmt"/>
+      <line num="30" count="12" type="stmt"/>
+      <line num="31" count="12" type="stmt"/>
+      <line num="33" count="6" type="cond" truecount="1" falsecount="0"/>
+      <line num="34" count="6" type="stmt"/>
+      <line num="37" count="11" type="cond" truecount="1" falsecount="0"/>
+      <line num="38" count="11" type="stmt"/>
+      <line num="39" count="11" type="stmt"/>
+      <line num="42" count="75" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="73" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="12" type="stmt"/>
+      <line num="45" count="12" type="stmt"/>
+      <line num="46" count="12" type="stmt"/>
+      <line num="48" count="61" type="cond" truecount="1" falsecount="0"/>
+      <line num="49" count="61" type="stmt"/>
+      <line num="52" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="60" count="2" type="stmt"/>
+    </file>
+    <file name="palavrasAleatorias.js" path="C:\Curso Full Stack Vem ser Tech\modulo8_Testes\aula3\exercicio\helper-api\src\services\palavrasAleatorias.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
